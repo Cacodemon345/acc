@@ -502,6 +502,10 @@ static char *PCDNames[PCODE_COMMAND_COUNT] =
 	"PCD_STRCPYTOSCRIPTCHRANGE",
 	"PCD_LSPEC5EX",
 	"PCD_LSPEC5EXRESULT",
+	"PCD_TRANSLATIONRANGE4",
+	"PCD_TRANSLATIONRANGE5",
+	"PCD_VIDEOWAIT",
+	"PCD_VIDEOWAITDIRECT",
 };
 
 // CODE --------------------------------------------------------------------

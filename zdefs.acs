@@ -1181,3 +1181,8 @@
                 
 #define LUMP_INFO_SIZE 0
 #define LUMP_INFO_NAME 1
+
+// Definitions for video playback
+#define NOSOUNDCUTOFF 1
+#define FIXEDVIEWPORT 2
+#define NOMUSICCUTOFF 4
