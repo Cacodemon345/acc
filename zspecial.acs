@@ -470,6 +470,7 @@ special
 	-215:GetNetID(2, 3),
 	-216:SetActivatorByNetID(1, 2),
 	-217:PlayVideoOnTexture(2, 5),
+	-218:StopVideo(1),
 	
 	// Eternity's
 	-300:GetLineX(3),
